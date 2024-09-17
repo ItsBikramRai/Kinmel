@@ -41,7 +41,7 @@
 
     ```bash
     Kinmel/
-    ├── frontend/    # Contains the React frontend code
+    ├── client/    # Contains the React frontend code
     ├── backend/     # Contains the backend code     with Node.js and Express
     ├── package.json # Contains the scripts for running frontend and backend together
     └── README.md    # Project documentation
